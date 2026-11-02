@@ -1,0 +1,15 @@
+task-xfce-desktop
+lightdm
+lightdm-gtk-greeter
+firefox-esr
+calamares
+sudo
+network-manager
+network-manager-gnome
+pipewire
+wireplumber
+pavucontrol
+thunar
+xfce4-terminal
+xfce4-whiskermenu-plugin
+fonts-dejavu

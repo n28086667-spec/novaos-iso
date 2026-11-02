@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Welcome to novaOS
+Comment=Welcome to your novaOS desktop
+Exec=firefox-esr https://www.debian.org/
+Icon=help-about
+Terminal=false
+Categories=Utility;

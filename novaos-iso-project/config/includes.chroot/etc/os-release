@@ -1,0 +1,7 @@
+PRETTY_NAME="novaOS 1.0"
+NAME="novaOS"
+VERSION_ID="1.0"
+VERSION="1.0 (Debian-based)"
+ID=novaos
+ID_LIKE=debian
+HOME_URL="https://www.debian.org/"
